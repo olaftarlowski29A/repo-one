@@ -1,0 +1,10 @@
+/* body styles for better development */
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+/* index styling */
+.main-container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
